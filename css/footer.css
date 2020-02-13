@@ -1,0 +1,39 @@
+/*---footer---*/
+.footer {
+	  background: #269abc;
+	  padding: 0.1em;
+	  width: 100%;
+	  text-align:right;
+	  padding-right:25px;
+}
+.footer  p {
+	  font-family: DIN-BOLD;
+	  color: #fff;
+	  font-size: 1em;
+	  margin-top: 0.8em;
+	  margin-left: -3em;
+}
+.footer  p a{
+	  color:#E94E02;
+}
+.footer  p a:hover{
+	  text-decoration:underline;
+}
+/*---//footer---*//*---footer---*/
+.footer2 {
+	  background: #2c659e;
+	  min-height: 150px;
+	  width: 100%;
+	  text-align:left;
+	  padding-left: 130px;
+	  padding-top: 10px;
+}
+.footer2  p {
+	  font-family: DIN-BOLD;
+	  color: #fff;
+	  font-size: 1em;
+	  margin-top: 0em;
+	  margin-left: -3em;
+}
+
+/*---//footer---*/
